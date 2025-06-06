@@ -8147,3 +8147,5 @@ https://jmp2.uk/sam-INBD400004NS.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC4300010Z6_20240912T093657SQUARE.png" group-title="SamSung",Zee News
 https://jmp2.uk/sam-INBC4300010Z6.m3u8
 
+#EXTINF: -1 tvg-id="1000009248" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Edgbaston_-_view_of_new_stand_from_the_north.jpg" group-title="IND VS ENG" group-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Cockfosters_Cricket_Club_blue_cricket_helmet_at_Cockfosters%2C_London%2C_England.jpg", England vs India Test
+https://bcovlive-a.akamaihd.net/b238876e5f004ec29d4e07066a044996/eu-west-1/4854911276001/playlist.m3u8
